@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "29cc73f9afd614033842b6ed5834ddf6",
-"assets/AssetManifest.bin.json": "8e254147b0d35c9a39709192a5d4c685",
-"assets/AssetManifest.json": "e9dc18dab354d459d07a0972948817a5",
+const RESOURCES = {"assets/AssetManifest.bin": "e994e621668db4074191eced5b218e22",
+"assets/AssetManifest.bin.json": "d7f38cc5dc93582e1846aa515e57a4be",
+"assets/AssetManifest.json": "cbd2c44af406ffc2ab080bac75fb071f",
 "assets/FontManifest.json": "fb2eed8c7c0c95f817aff405be0ae8ff",
-"assets/fonts/MaterialIcons-Regular.otf": "0a41da3a94803d0ffd84ded09b3ac7d7",
+"assets/fonts/MaterialIcons-Regular.otf": "b127ca5a5b840bc66fbf238c11fb2ada",
+"assets/lib/icons/banner1.png": "bfe99a642fceeb8f12f6fc4d7a6ace0c",
 "assets/lib/icons/dailyactivity.png": "4d78eaff0e0aec3f8584a180095505ac",
 "assets/lib/icons/more.png": "c2a3b7a9a21053c2dc49a8d44f69eeae",
 "assets/lib/icons/quiz.png": "2b14a7561dd4f6e743fbfa6a48717cbe",
@@ -41,14 +42,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "29cc73f9afd614033842b6ed5834ddf6
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "e8d4fea0f493eea9ac65b3befab3fd3a",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "2ad48e40ac47cddf6baf237cc6273050",
+"flutter_bootstrap.js": "ce69ef09de7dc9a727c754ce8c486c4d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "4238a203ccdca7948967df92dc01eb18",
 "/": "4238a203ccdca7948967df92dc01eb18",
-"main.dart.js": "72dc1d65918a9c61e41cf5773a56e636",
+"main.dart.js": "f2d8bdbfefb2fe03cc19da18be7879bf",
 "manifest.json": "e78274edafe512640767696d6a77e0e7",
 "version.json": "1be887d560c0ef88b9d18c917a30ea63"};
 // The application shell files that are downloaded before a service worker can
